@@ -1,4 +1,4 @@
-সবচেয়ে দরকারি 10টা
+The 10 most important Git commands - সবচেয়ে দরকারি 10টা
 git init
 git clone <repo-url>
 git status
