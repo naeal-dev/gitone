@@ -1,0 +1,11 @@
+সবচেয়ে দরকারি 10টা
+git init
+git clone <repo-url>
+git status
+git add .
+git reset
+git commit -m "message"
+git push origin main
+git pull
+git branch
+git checkout <branch-name>
